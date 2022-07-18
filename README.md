@@ -600,6 +600,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="KnowledgeDistillation"/> 
 
 ### 知识蒸馏(Knowledge Distillation)
+[Knowledge Condensation Distillation]<br>
+[paper](https://arxiv.org/abs/2207.05409) | [code](https://github.com/dzy3/KCD)<br>
 
 [1] Knowledge Condensation Distillation<br>
 [paper](https://arxiv.org/abs/2207.05409)  | [code](https://github.com/dzy3/kcd)<br><br>
@@ -653,6 +655,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="self-supervisedlearning"/> 
 
 ## 31. 半监督学习/弱监督学习/无监督学习/自监督学习(Self-supervised Learning/Semi-supervised Learning)
+[5] Point-to-Box Network for Accurate Object Detection via Single Point Supervision<br>
+[paper](https://arxiv.org/pdf/2207.06827.pdf) | [code](https://github.com/ucas-vg/P2BNet)<br><br>
 
 [4] Synergistic Self-supervised and Quantization Learning<br>
 [paper](https://arxiv.org/abs/2207.05432)  | [code](https://github.com/megvii-research/ssql-eccv2022)<br><br>
@@ -747,8 +751,6 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ## 38. 对比学习(Contrastive Learning)
 
-[1] Point-to-Box Network for Accurate Object Detection via Single Point Supervision<br>
-[paper](https://arxiv.org/pdf/2207.06827.pdf)<br>
 
 <br>
 
