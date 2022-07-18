@@ -743,7 +743,7 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 <br>
 
-<a name="3ContrastiveLearning"/> 
+<a name="ContrastiveLearning"/> 
 
 ## 38. 对比学习(Contrastive Learning)
 
