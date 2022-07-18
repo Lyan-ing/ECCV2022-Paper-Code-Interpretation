@@ -747,6 +747,8 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 
 ## 38. 对比学习(Contrastive Learning)
 
+[1] Point-to-Box Network for Accurate Object Detection via Single Point Supervision<br>
+[paper] (https://arxiv.org/pdf/2207.06827.pdf)<br><br>
 
 <br>
 
