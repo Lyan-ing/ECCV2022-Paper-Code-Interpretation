@@ -600,8 +600,6 @@ ECCV2022 论文/代码/解读合集，极市团队整理
 <a name="KnowledgeDistillation"/> 
 
 ### 知识蒸馏(Knowledge Distillation)
-[Knowledge Condensation Distillation]<br>
-[paper](https://arxiv.org/abs/2207.05409) | [code](https://github.com/dzy3/KCD)<br>
 
 [1] Knowledge Condensation Distillation<br>
 [paper](https://arxiv.org/abs/2207.05409)  | [code](https://github.com/dzy3/kcd)<br><br>
